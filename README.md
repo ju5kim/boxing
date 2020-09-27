@@ -20,7 +20,7 @@ git log  커밋 정보들 보기
 
 //-- 깃헙 사이트에 내가 작업한 로컬폴더에 git과 깃헙을 연동 시킨다.
 
-git remote add  origin http://github.com/아이디/깃헙저장소이름.git
+git remote add  origin http://github.com/아이디/깃헙저장소이름.gita
 remote 이름을 origin으로 추가한다 
 
 만들어 놓은 커밋을 푸쉬하기
